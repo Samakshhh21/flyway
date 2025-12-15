@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class testing2 {
 
     public testing2(){
-        System.out.println("testing hashcode " + this.hashCode());
+        System.out.println("testing2 hashcode " + this.hashCode());
     }
 }
