@@ -7,4 +7,8 @@ import org.springframework.stereotype.Component;
 @Component
 @Scope("prototype")
 public class testing {
+
+    public testing(){
+        System.out.println("testing hashcode " + this.hashCode());
+    }
 }
