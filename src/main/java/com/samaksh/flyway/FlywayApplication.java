@@ -10,5 +10,4 @@ public class FlywayApplication {
 		SpringApplication.run(FlywayApplication.class, args);
 	}
 
-
 }
