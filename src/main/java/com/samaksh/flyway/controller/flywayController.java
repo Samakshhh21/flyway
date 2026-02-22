@@ -11,7 +11,7 @@ public class flywayController {
 
     @Autowired
     testing t;
-     @Autowired
+
      testing2 t2;
 
     @Autowired
